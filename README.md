@@ -1,1 +1,0 @@
-# joaquinhinojosa.github.io
