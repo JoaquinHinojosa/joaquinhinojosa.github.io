@@ -6,7 +6,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-herojoaquin.jpg");
+  background-image: url("../img/bg-herocv.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -14,7 +14,7 @@ body {
 
 /* Mis trabajos */
 
-#Mis-trabajos .image-top {
+#Mi-portafolio .image-top {
   height: 200px;
   background-repeat: no-repeat;
   background-size: cover;
