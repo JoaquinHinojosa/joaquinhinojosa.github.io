@@ -21,13 +21,6 @@ body {
   background-position: center;
 }
 
-/* Contacto */
-
-#Contacto form label {
-  font-weight: 700;
-  color: #373a3c;
-}
-
 @media (max-width: 768px) {
   #Contacto form label {
     font-weight: 400;
@@ -37,4 +30,26 @@ body {
     width: 100px;
   }
 
+}
+
+#movimg{
+  animation: move 3s infinite;
+}
+
+@keyframes move{
+  0 {
+    transform: rotate(10deg);
+  }
+  25%{
+    transform: rotate(-7deg);
+  }
+  50%{
+    transform: rotate(3deg);
+  }
+  75% {
+    transform: rotate(-5deg);
+  }
+  10%{
+    transform: rotate(7deg);
+  }
 }
